@@ -339,6 +339,7 @@ export default [
     'up.to.speed',
     'up-?sell',
     'upside',
+    'uptime',
     'user.friendly',
     'user.experience',
     'utiliz(e|ation)',
