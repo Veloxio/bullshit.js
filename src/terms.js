@@ -166,6 +166,7 @@ export default [
     'intuitive',
     'iot',
     'knowledge (base|transfer)',
+    'kpi',
     'landing pages?',
     'lead the field',
     'leading',
